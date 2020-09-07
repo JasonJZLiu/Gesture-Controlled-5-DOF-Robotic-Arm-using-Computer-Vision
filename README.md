@@ -10,7 +10,7 @@ The user can then tune the upper and lower bound of each of the three HSV colour
 
 Finally, run the main Python file, titled "Gesture_Controlled_Robotic_Arm_Python_Code.py". Ensure that the Arduino is plugged in so that the Python program can send the PWM signals to the Arduino.
 
-## More information regarding this project:
+## More Information Regarding this Project:
 The following is a demo video of this project:
 https://www.youtube.com/watch?v=PDEdxRVkMdo
 
