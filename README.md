@@ -14,5 +14,5 @@ Finally, run the main Python file, titled "Gesture_Controlled_Robotic_Arm_Python
 The following is a demo video of this project:
 https://www.youtube.com/watch?v=PDEdxRVkMdo
 
-If you want to check out the full description of the project, including the downloadable STL files and a part list, check out the following link:
+If you want to read up on the full description of the project, including the downloadable STL files and a part list, check out the following link:
 https://grabcad.com/library/5-dof-robotic-arm-6
